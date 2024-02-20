@@ -122,11 +122,12 @@ header{
 }
 
 .title-logo{
-	margin-top: 2vh;
+	
 	
 	text-align: left;
 }
 .title-logo img{
+	padding-top: 2vh;
     width: 60px;
     height: 60px;
     
