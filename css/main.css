@@ -111,7 +111,7 @@ header{
 
 .title{
 	font-size: 36px;
-	padding-top: 10px;
+	
 	text-align: center;
 }
 .menu{
@@ -127,7 +127,7 @@ header{
 	text-align: left;
 }
 .title-logo img{
-	padding-top: 2vh;
+	margin-top: 10px;
     width: 60px;
     height: 60px;
     
